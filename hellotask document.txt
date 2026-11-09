@@ -1,3 +1,6 @@
 hi good afternoon 
 iam tanmai sutrave
-todays my task is to complete week-05 of CND lab
+todays my task is to complete lab external of Clod computing and devops 
+and i have a two tasks in it which is 
+1.jenkins
+2.ec2 Git and GitHub 
